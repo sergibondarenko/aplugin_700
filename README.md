@@ -1,6 +1,6 @@
 # aplugin700
 
-> Demo Eui Drag And Drop components fail to reorder items in a list
+> Demo Eui Drag And Drop components failing to reorder items in a list
 
 ---
 
