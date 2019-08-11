@@ -1,6 +1,6 @@
 # aplugin700
 
-> An awesome Kibana plugin
+> Demo Eui Drag And Drop components fail to reorder items in a list
 
 ---
 
