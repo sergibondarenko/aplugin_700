@@ -4,6 +4,8 @@
 
 ---
 
+![eui_drag_and_drop_fails_2](https://user-images.githubusercontent.com/5389745/62830510-a8dfff80-bc18-11e9-9443-8f5628628617.gif)
+
 ## development
 
 See the [kibana contributing guide](https://github.com/elastic/kibana/blob/master/CONTRIBUTING.md) for instructions setting up your development environment. Once you have completed that, use the following yarn scripts.
